@@ -56,7 +56,7 @@ POST http://push.doday.net/api/push
 |변수명|타입|설명|
 |--:|---|---|
 |uuid|string|앱에서 확인가능한 uuid|
-|secret_key|string|앱에서 확인가능합 secret_key|
+|secret_key|string|앱에서 확인가능한 secret_key|
 |code|string|푸시 보낼 타겟 그룹 코드(내가 개설한 그룹만 가능)|
 |body|string|문자열은 자동으로 길이가 조절되어 발송됩니다.(utf8)|
 
